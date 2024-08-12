@@ -1,5 +1,5 @@
 - :wave: Hey there! My name is Dave.
 - :heart_eyes: I live and breath tech! I have a huge passion for working in tech! I work as a Cloud Engineer for a tour operator in the Netherlands!
 - :video_game: Aside from working in tech my second passion is gaming!
-- :eyes: Aside from tech I love to watch Formula 1, travel, watch series or go to the movies.
+- :eyes: Aside from tech and gaming, I love to watch Formula 1, travel, watch series or go to the movies.
 - :us: Favourite travel location: USA.
