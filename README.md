@@ -10,67 +10,52 @@ I'm a results-driven Cloud Engineer with a software development background, spec
 
 I'm passionate about leveraging automation technologies to drive operational efficiency and bridge the gap between development and infrastructure operations. Always eager to tackle challenging problems that expand my knowledge while delivering measurable improvements.
 
-- 🔭 Currently working on **re-building and automating my homelab**
-- 🌱 Learning **GitOps**
-- 💬 Ask me about **Cloud architecture, IaC, and CI/CD best practices**
-- ⚡ Fun fact: **I've probably automated myself out of more tasks than I can count**
 
 ## 🛠️ Tech Stack
 
-### Cloud Platforms
+An small overview of the tech I work with either at work or within my homelab.
+
+
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" width="50"/>
 <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure" width="50"/>
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="Azure" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="Terraform" width="50"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" alt="Ansible" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="Kubernetes" width="50"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" alt="Helm" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/K3s.svg" alt="K3s" width="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="50"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="50" alt="GitHub">
+<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="50" alt="GitHub Actions">
+<img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="50" alt="GitLab">
+<img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="50" alt="Bitbucket">
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" alt="Argo CD">
+<img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="50" alt="Prometheus">
+<img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" width="50" alt="Grafana">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" width="50" alt="Elasticsearch">
+<img src="https://icon.icepanel.io/Technology/svg/Logstash.svg" width="50" alt="Logstash">
+<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" alt="Python">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="50" alt="Bash">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" width="50" alt="PowerShell">
+<img src="https://icon.icepanel.io/Technology/svg/Homebrew.svg" width="50" alt="Homebrew">
+<img src="https://icon.icepanel.io/Technology/svg/Hugo.svg" width="50" alt="Hugo">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/InfluxDB.png" width="50" alt="InfluxDB">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" alt="Linux">
+<img src="https://icon.icepanel.io/Technology/svg/Debian.svg" width="50" alt="Debian">
+<img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" alt="Windows 11">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="50" alt="Microsoft SQL Server">
+<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="50" alt="MySQL">
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="50" alt="PostgreSQL">
+<img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="50" alt="NGINX">
+<img src="https://icon.icepanel.io/Technology/svg/Apache.svg" width="50" alt="Apache">
+<img src="https://icon.icepanel.io/Technology/svg/Traefik-Proxy.svg" width="50" alt="Traefik Proxy">
+<img src="https://icon.icepanel.io/Technology/svg/Redis.svg" width="50" alt="Redis">
 
-https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg
-
-### Configuration Management
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-### CI/CD & DevOps Tools
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
-
-### Scripting & Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evadnl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evadnl&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evadnl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/evadnl/))
 
 </div>
 
