@@ -23,7 +23,7 @@ A small overview of the tech I work with either at work or within my homelab.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/evadnl/))
+[LinkedIn](https://www.linkedin.com/in/evadnl/)
 
 </div>
 
